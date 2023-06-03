@@ -25,12 +25,18 @@ Here are a few examples of my data analysis projects:
 
 I'm excited about new opportunities and collaborations. If you have any questions, project ideas, or would like to discuss potential collaborations, feel free to reach out to me via email at [my email](timnastic@aol.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timilehin-onileimo-91a624194) to stay updated on my latest projects and professional journey.
 
-
-Thank you for visiting my GitHub profile! I look forward to connecting with you.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tymnastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tymnastic" height="30" width="40" /></a>
+<a href="https://instagram.com/tymnastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tymnastic" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+Thank you for visiting my GitHub profile! I look forward to connecting with you.
+
 
 
