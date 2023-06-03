@@ -23,8 +23,7 @@ Here are a few examples of my data analysis projects:
 
 ## Contact
 
-I'm excited about new opportunities and collaborations. If you have any questions, project ideas, or would like to discuss potential collaborations, feel free to reach out to me via email at [my email](timnastic@aol.com). You can also connect with me on [LinkedIn](linkedin.com/in/timilehin-onileimo-91a624194
-) to stay updated on my latest projects and professional journey.
+I'm excited about new opportunities and collaborations. If you have any questions, project ideas, or would like to discuss potential collaborations, feel free to reach out to me via email at [my email](timnastic@aol.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/timilehin-onileimo-91a624194) to stay updated on my latest projects and professional journey.
 
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
